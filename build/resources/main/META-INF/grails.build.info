@@ -1,0 +1,6 @@
+#Sun, 15 Jan 2017 02:13:12 +0700
+
+info.app.version=0.1
+info.app.name=QuizManiaServer
+grails.env=development
+info.app.grailsVersion=3.1.10
